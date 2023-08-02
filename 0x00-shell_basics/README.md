@@ -24,3 +24,6 @@ directory /tmp
 File 7-movethatfile
 Move file called betty from /tmp to
 /tmp/my_first_directory
+
+File 8-firstdelete
+Deletes file betty in directory /tmp/my_first_directory
