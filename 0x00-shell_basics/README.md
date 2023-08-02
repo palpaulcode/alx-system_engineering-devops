@@ -30,3 +30,6 @@ Deletes file betty in directory /tmp/my_first_directory
 
 File 9-firstdirdeletion
 Deletes directory /tmp/my_first_directory
+
+File 10-back
+Changes working directory to the previous one
