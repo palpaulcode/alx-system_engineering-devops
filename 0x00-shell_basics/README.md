@@ -6,3 +6,6 @@ Lists files and directories in current directory
 
 File 2-bring_me_home
 Takes you back to home directory
+
+File 3-listfiles
+Lists files in current in long format
