@@ -33,3 +33,7 @@ Deletes directory /tmp/my_first_directory
 
 File 10-back
 Changes working directory to the previous one
+
+File 11-lists
+Lists files in long format in current, parent and /boot
+directories
