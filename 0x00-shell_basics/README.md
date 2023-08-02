@@ -9,3 +9,6 @@ Takes you back to home directory
 
 File 3-listfiles
 Lists files in current in long format
+
+File 4-listmorefiles
+Lists all files including hidden files
