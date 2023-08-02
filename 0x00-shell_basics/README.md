@@ -27,3 +27,6 @@ Move file called betty from /tmp to
 
 File 8-firstdelete
 Deletes file betty in directory /tmp/my_first_directory
+
+File 9-firstdirdeletion
+Deletes directory /tmp/my_first_directory
