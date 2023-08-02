@@ -37,3 +37,6 @@ Changes working directory to the previous one
 File 11-lists
 Lists files in long format in current, parent and /boot
 directories
+
+File 12-file_type
+Prints type of file named iamfile in directory /tmp
