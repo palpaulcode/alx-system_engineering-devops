@@ -55,3 +55,7 @@ Moves all files that begin with an upper case letter to /tmp/u
 
 File 16 101-clean_emacs
 Deletes files that end with ~ in current working directory
+
+FIle 17 102-tree
+Creates directories welcome, welcome/to and welcome/to/school in
+current working directory
