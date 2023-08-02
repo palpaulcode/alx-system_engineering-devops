@@ -59,3 +59,7 @@ Deletes files that end with ~ in current working directory
 FIle 17 102-tree
 Creates directories welcome, welcome/to and welcome/to/school in
 current working directory
+
+File 18 103-commas
+Lists files and directories with trailing slash(/) and separated
+by commas, with ordered listing 
