@@ -40,3 +40,7 @@ directories
 
 File 12-file_type
 Prints type of file named iamfile in directory /tmp
+
+File 13-symbolic_link
+Creates a symbolic link called __ls__ in current
+directory pointing to /bin/ls
