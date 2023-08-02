@@ -20,3 +20,7 @@ show uid and gid instead username nad groupname
 File 6-firstdirectory
 Creates a directory called my_first_directory in
 directory /tmp
+
+File 7-movethatfile
+Move file called betty from /tmp to
+/tmp/my_first_directory
