@@ -16,3 +16,7 @@ Lists all files including hidden files
 File 5-listfilesdigitonly
 Lists all files including hidden files but 
 show uid and gid instead username nad groupname
+
+File 6-firstdirectory
+Creates a directory called my_first_directory in
+directory /tmp
