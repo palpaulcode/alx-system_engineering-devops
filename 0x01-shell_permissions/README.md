@@ -35,5 +35,9 @@ Sets file hello permissions to 753
 File 10-mirro_permissions
 Sets the mode of file hello to 664
 
+File 11-directories_permissions
+Adds execute permission to all subdirectories of current
+directory while leaving regular files alone
+
 
 
