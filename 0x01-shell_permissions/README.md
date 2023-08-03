@@ -29,4 +29,7 @@ File 8-James_Bond
 Set no permission for owner and group, and sets
 all permissions for others
 
+File 9-John_Doe
+Sets file hello permissions to 753
+
 
