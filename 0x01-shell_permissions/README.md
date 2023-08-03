@@ -45,5 +45,9 @@ Creates directory my_dir with permissions 751
 File 13-change_group
 Changes group of file hello go school
 
+File 100-chnage_owner_and_group
+changesowner to vincent and group to staff for all files 
+and directories in current working directory
+
 
 
