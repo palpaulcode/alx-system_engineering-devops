@@ -21,3 +21,8 @@ Adds execute permission to the owner of file hello
 File 6-multiple_permissions
 Adds excute permission to owner and group owner, and
 read permission to other users, to file hello
+
+File 7-everybody
+Adds execute permission to everyone for file hello
+
+
