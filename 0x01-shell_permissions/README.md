@@ -25,4 +25,8 @@ read permission to other users, to file hello
 File 7-everybody
 Adds execute permission to everyone for file hello
 
+File 8-James_Bond
+Set no permission for owner and group, and sets
+all permissions for others
+
 
