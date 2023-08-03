@@ -39,5 +39,8 @@ File 11-directories_permissions
 Adds execute permission to all subdirectories of current
 directory while leaving regular files alone
 
+File 12-directory_permissions
+Creates directory my_dir with permissions 751
+
 
 
