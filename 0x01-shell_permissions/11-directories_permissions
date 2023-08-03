@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod go+x dir*
+chmod u+rwx,go+x dir*
