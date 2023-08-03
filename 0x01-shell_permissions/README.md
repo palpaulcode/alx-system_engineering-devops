@@ -45,9 +45,13 @@ Creates directory my_dir with permissions 751
 File 13-change_group
 Changes group of file hello go school
 
-File 100-chnage_owner_and_group
-changesowner to vincent and group to staff for all files 
+File 100-change_owner_and_group
+changes owner to vincent and group to staff for all files 
 and directories in current working directory
+
+File 101-symbolic_link_permissions
+changes owner and groupf file _hello to vincent and staff
+respectively. The file is a symbolic link
 
 
 
