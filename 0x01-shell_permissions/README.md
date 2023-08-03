@@ -32,4 +32,8 @@ all permissions for others
 File 9-John_Doe
 Sets file hello permissions to 753
 
+File 10-mirro_permissions
+Sets the mode of file hello to 664
+
+
 
