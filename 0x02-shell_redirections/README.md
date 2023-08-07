@@ -80,5 +80,9 @@ File 101-gifs
 Lists all files with .gif extension in current directory
 and all its subdirectories
 
+File 102-acrostic
+Translates first character of every line to upper case 
+and prints it
+
 
 
