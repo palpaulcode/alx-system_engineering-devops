@@ -12,3 +12,8 @@ Display the contents of two files
 
 File 4-lastlines
 Displays the last 10 lines of file /etc/passwd
+
+File 5-firtlines
+Display the first ten lines of file /etc/passwd
+
+
