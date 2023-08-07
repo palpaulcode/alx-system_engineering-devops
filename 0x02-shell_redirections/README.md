@@ -25,4 +25,5 @@ Creates a file escaping special characters
 File 8-cwd_state
 Redirects output of command 'ls -la' to a file
 
-
+File 9-duplicate_last_line
+Duplicates last line of file iacta
