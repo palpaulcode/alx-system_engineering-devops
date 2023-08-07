@@ -40,4 +40,7 @@ Lists 10 newest files in current directory
 File 13-unique
 Takes a list of words and prints only word that appear once
 
+File 14-findthatword
+Displays line containing pattern root in file '/etc/passwd'
+
 
