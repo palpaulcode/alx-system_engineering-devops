@@ -84,5 +84,8 @@ File 102-acrostic
 Translates first character of every line to upper case 
 and prints it
 
+File 103-the_biggest_fan
+Parses web server logs from a TSV format input
+
 
 
