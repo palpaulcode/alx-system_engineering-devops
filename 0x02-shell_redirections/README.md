@@ -31,4 +31,7 @@ Duplicates last line of file iacta
 File 10-no_more_js
 Removes regular files with extension .js
 
+File 11-directories
+Counts number of directories and subdirectories in current directory
+
 
