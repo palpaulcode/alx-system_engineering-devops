@@ -7,4 +7,7 @@ Prints a funny smiley
 File 2-hellofile
 Prints contents of /etc/passwd
 
+File 3-twofiles
+Display the contents of two files
+
 
