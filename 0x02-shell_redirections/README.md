@@ -19,4 +19,7 @@ Display the first ten lines of file /etc/passwd
 File 6-third_line
 Display third line of a file
 
+File 7-file
+Creates a file escaping special characters
+
 
