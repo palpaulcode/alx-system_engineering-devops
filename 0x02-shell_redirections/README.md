@@ -59,4 +59,7 @@ File 18-letteronly
 Displays all lines of the file /etc/ssh/sshd_config that 
 start with a letter
 
+File 19-AZ
+Translates charaters A and c to Z and e from input
+
 
