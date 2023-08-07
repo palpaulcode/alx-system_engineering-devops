@@ -43,4 +43,9 @@ Takes a list of words and prints only word that appear once
 File 14-findthatword
 Displays line containing pattern root in file '/etc/passwd'
 
+File 15-countthatword
+Counts number of lines that contain pattern 'bin' in file 
+'/etc/passwd'
+
+
 
