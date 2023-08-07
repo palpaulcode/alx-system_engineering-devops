@@ -22,4 +22,7 @@ Display third line of a file
 File 7-file
 Creates a file escaping special characters
 
+File 8-cwd_state
+Redirects output of command 'ls -la' to a file
+
 
