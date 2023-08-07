@@ -62,4 +62,7 @@ start with a letter
 File 19-AZ
 Translates charaters A and c to Z and e from input
 
+File 20-hiago
+Removes letters C and C from a string of text
+
 
