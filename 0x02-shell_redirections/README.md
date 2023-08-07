@@ -76,5 +76,9 @@ File 100-empty_casks
 Finds and lists empty files and directories and 
 subdirectories in current directory
 
+File 101-gifs
+Lists all files with .gif extension in current directory
+and all its subdirectories
+
 
 
