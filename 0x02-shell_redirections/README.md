@@ -68,5 +68,7 @@ Removes letters C and C from a string of text
 File 21-reverse
 Reverses its input
 
-
+File 22-users_and_homes
+Displays all users and their home directories from file 
+/etc/passwd, sorted by users
 
