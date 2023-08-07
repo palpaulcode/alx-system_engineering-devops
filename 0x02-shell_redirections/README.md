@@ -55,4 +55,8 @@ File 17-hidethisword
 Displays files that do not contain the pattern 'bin'
 in file /etc/passwd
 
+File 18-letteronly
+Displays all lines of the file /etc/ssh/sshd_config that 
+start with a letter
+
 
