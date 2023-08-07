@@ -72,3 +72,9 @@ File 22-users_and_homes
 Displays all users and their home directories from file 
 /etc/passwd, sorted by users
 
+File 100-empty_casks
+Finds and lists empty files and directories and 
+subdirectories in current directory
+
+
+
