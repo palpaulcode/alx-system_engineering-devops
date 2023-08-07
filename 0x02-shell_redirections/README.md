@@ -34,4 +34,7 @@ Removes regular files with extension .js
 File 11-directories
 Counts number of directories and subdirectories in current directory
 
+File 12-newest_file
+Lists 10 newest files in current directory
+
 
