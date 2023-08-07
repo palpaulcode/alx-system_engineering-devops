@@ -51,5 +51,8 @@ File 16-whatsnext
 Display line containing pattern 'root' and three lines 
 after them in file /etc/passwd
 
+File 17-hidethisword
+Displays files that do not contain the pattern 'bin'
+in file /etc/passwd
 
 
