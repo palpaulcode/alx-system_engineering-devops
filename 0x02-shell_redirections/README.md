@@ -27,3 +27,8 @@ Redirects output of command 'ls -la' to a file
 
 File 9-duplicate_last_line
 Duplicates last line of file iacta
+
+File 10-no_more_js
+Removes regular files with extension .js
+
+
