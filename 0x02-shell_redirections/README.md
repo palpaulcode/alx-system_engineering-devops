@@ -47,5 +47,9 @@ File 15-countthatword
 Counts number of lines that contain pattern 'bin' in file 
 '/etc/passwd'
 
+File 16-whatsnext
+Display line containing pattern 'root' and three lines 
+after them in file /etc/passwd
+
 
 
