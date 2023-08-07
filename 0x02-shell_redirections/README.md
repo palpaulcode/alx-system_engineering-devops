@@ -10,4 +10,5 @@ Prints contents of /etc/passwd
 File 3-twofiles
 Display the contents of two files
 
-
+File 4-lastlines
+Displays the last 10 lines of file /etc/passwd
