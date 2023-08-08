@@ -43,6 +43,9 @@ decimal and displays it.
 Prints 2-letter combinations from a permutation of 
 letter a-z excluding leters 'oo'
 
+### File 13-print_float
+Print a number saved in a variable to two decimal precision
+
 
 
 
