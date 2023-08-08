@@ -12,3 +12,8 @@ Append '/action' to path variable
 
 ### File 3-paths
 Counts the number of directories in the PATH variable
+
+### File 4-global_variables
+Prints all global variables in the system
+
+
