@@ -28,4 +28,7 @@ Creates a global variable with same name and value as above.
 ### File 8-true_knowledge
 Adds two values together. One value is a variable
 
+### File 9-divide_and_rule
+Print the resuls of division of two variables
+
 
