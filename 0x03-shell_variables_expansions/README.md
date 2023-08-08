@@ -46,6 +46,11 @@ letter a-z excluding leters 'oo'
 ### File 13-print_float
 Print a number saved in a variable to two decimal precision
 
+### File 100-decimal_to_hexadecimal
+Converts a number saved in variable DECIMAL from base
+10 to base 16
+
+
 
 
 
