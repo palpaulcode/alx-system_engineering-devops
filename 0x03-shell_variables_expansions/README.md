@@ -35,4 +35,8 @@ Print the resuls of division of two variables
 calculates and prints value of variable BREATH raised 
 to power of variable LOVE
 
+### File 11-binary_to_decimal
+Converts a binary number stored in a variable to 
+decimal and displays it.
+
 
