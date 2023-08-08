@@ -56,7 +56,8 @@ Encodes and decodes text using rot13 encryption
 ### File 102-odd
 Prints odd file lines
 
-
+### File 103-water_and_stir
+Adds two numbers stored in the environment variables WATER and STIR
 
 
 
