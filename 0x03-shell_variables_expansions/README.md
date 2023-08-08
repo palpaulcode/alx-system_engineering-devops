@@ -22,4 +22,7 @@ Lists all local varibles, environment variables and functions
 ### File 6-create_local_variable
 Creates a local variable called BEST and assigns it value School
 
+### File 7-create_global_variable
+Creates a global variable with same name and value as above.
+
 
