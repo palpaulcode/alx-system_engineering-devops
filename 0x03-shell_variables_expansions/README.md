@@ -7,4 +7,5 @@ current working directory
 ### File 1-hello_you
 Prints hello followed by current user's name
 
-
+### File 2-path
+Append '/action' to path variable
