@@ -16,4 +16,7 @@ Counts the number of directories in the PATH variable
 ### File 4-global_variables
 Prints all global variables in the system
 
+### File 5-local_variables
+Lists all local varibles, environment variables and functions
+
 
