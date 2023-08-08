@@ -39,4 +39,10 @@ to power of variable LOVE
 Converts a binary number stored in a variable to 
 decimal and displays it.
 
+### File 12-combinations
+Prints 2-letter combinations from a permutation of 
+letter a-z excluding leters 'oo'
+
+
+
 
