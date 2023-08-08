@@ -9,3 +9,6 @@ Prints hello followed by current user's name
 
 ### File 2-path
 Append '/action' to path variable
+
+### File 3-paths
+Counts the number of directories in the PATH variable
