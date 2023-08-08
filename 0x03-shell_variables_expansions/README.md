@@ -31,4 +31,8 @@ Adds two values together. One value is a variable
 ### File 9-divide_and_rule
 Print the resuls of division of two variables
 
+### File 10-love_exponent_breath
+calculates and prints value of variable BREATH raised 
+to power of variable LOVE
+
 
