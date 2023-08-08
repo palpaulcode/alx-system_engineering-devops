@@ -19,4 +19,7 @@ Prints all global variables in the system
 ### File 5-local_variables
 Lists all local varibles, environment variables and functions
 
+### File 6-create_local_variable
+Creates a local variable called BEST and assigns it value School
+
 
