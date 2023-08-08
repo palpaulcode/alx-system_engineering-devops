@@ -50,6 +50,9 @@ Print a number saved in a variable to two decimal precision
 Converts a number saved in variable DECIMAL from base
 10 to base 16
 
+### File 101-rot13
+Encodes and decodes text using rot13 encryption
+
 
 
 
