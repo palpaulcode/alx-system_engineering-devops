@@ -53,6 +53,9 @@ Converts a number saved in variable DECIMAL from base
 ### File 101-rot13
 Encodes and decodes text using rot13 encryption
 
+### File 102-odd
+Prints odd file lines
+
 
 
 
