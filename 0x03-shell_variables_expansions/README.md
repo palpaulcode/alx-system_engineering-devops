@@ -25,4 +25,7 @@ Creates a local variable called BEST and assigns it value School
 ### File 7-create_global_variable
 Creates a global variable with same name and value as above.
 
+### File 8-true_knowledge
+Adds two values together. One value is a variable
+
 
